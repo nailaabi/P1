@@ -2,6 +2,8 @@
 
 const prompt = require( 'prompt-sync') ();
 
+console.log ('Holaaa bienvenido!!')
+
 const num1=Number ( prompt( 'Ingresa tu numero favorito: '));
 
 const num2= Number ( prompt ('Cual es el doble de tu numero favorito??')) 
